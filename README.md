@@ -81,14 +81,17 @@ I am a motivated and goal-oriented student at Warsaw University of Technology, c
 - Bootstrap 5
 - JavaFX
 - Swing
-
 ---
-
-### :headphones: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MateuszBorka&theme=dark&background=000000&mode=weekly)](https://git.io/streak-stats)
 
 ### :globe_with_meridians: Languages spoken
 - English
 - Polish
 - Belarussian
 - Russian
+
+
+---
+
+### :headphones: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MateuszBorka&theme=dark&background=000000&mode=weekly)](https://git.io/streak-stats)
+
