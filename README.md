@@ -54,9 +54,6 @@ I am a motivated and goal-oriented student at Warsaw University of Technology, c
 - Spring Web MVC
 - Hibernate
 - Thymeleaf
-- HATEOAS
-- jjwt
-- jackson
 
 #### Tools and Technologies :
 - Linux
@@ -69,6 +66,11 @@ I am a motivated and goal-oriented student at Warsaw University of Technology, c
 - H2
 - Hikari
 - Azure DevOps
+- HATEOAS
+- jjwt
+- jackson
+- log4j
+- slf4j
 
 #### Testing Frameworks :
 - JUnit
@@ -84,3 +86,9 @@ I am a motivated and goal-oriented student at Warsaw University of Technology, c
 
 ### :headphones: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MateuszBorka&theme=dark&background=000000&mode=weekly)](https://git.io/streak-stats)
+
+### :globe_with_meridians: Languages spoken
+- English
+- Polish
+- Belarussian
+- Russian
