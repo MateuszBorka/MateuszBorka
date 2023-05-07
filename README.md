@@ -84,8 +84,8 @@ I am a motivated and goal-oriented student at Warsaw University of Technology, c
 ---
 
 ### :globe_with_meridians: Languages spoken
-- English
 - Polish
+- English
 - Belarussian
 - Russian
 
