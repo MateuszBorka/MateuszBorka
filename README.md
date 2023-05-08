@@ -52,6 +52,7 @@ I am a motivated and goal-oriented student at Warsaw University of Technology, c
 - Spring Data JPA
 - Spring Security
 - Spring Web MVC
+- Spring validation
 - Hibernate
 - Thymeleaf
 
