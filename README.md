@@ -67,6 +67,7 @@ I am a motivated and goal-oriented student at Warsaw University of Technology, c
 - H2
 - Hikari
 - Azure DevOps
+- Threads
 - HATEOAS
 - jjwt
 - jackson
