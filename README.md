@@ -80,7 +80,6 @@ I am a motivated and goal-oriented student at Warsaw University of Technology, c
 - AssertJ
 
 #### User Interface :
-- Bootstrap 5
 - JavaFX
 - Swing
 ---
